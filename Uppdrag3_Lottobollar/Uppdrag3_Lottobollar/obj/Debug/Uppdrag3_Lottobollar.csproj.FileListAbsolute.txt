@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Skrivbord\Visual Studio\Uppdrag3_Lottobollar\Uppdrag3_Lottobollar\bin\Debug\Uppdrag3_Lottobollar.exe.config
+C:\Users\danie\OneDrive\Skrivbord\Visual Studio\Uppdrag3_Lottobollar\Uppdrag3_Lottobollar\bin\Debug\Uppdrag3_Lottobollar.exe
+C:\Users\danie\OneDrive\Skrivbord\Visual Studio\Uppdrag3_Lottobollar\Uppdrag3_Lottobollar\bin\Debug\Uppdrag3_Lottobollar.pdb
+C:\Users\danie\OneDrive\Skrivbord\Visual Studio\Uppdrag3_Lottobollar\Uppdrag3_Lottobollar\obj\Debug\Uppdrag3_Lottobollar.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Skrivbord\Visual Studio\Uppdrag3_Lottobollar\Uppdrag3_Lottobollar\obj\Debug\Uppdrag3_Lottobollar.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\OneDrive\Skrivbord\Visual Studio\Uppdrag3_Lottobollar\Uppdrag3_Lottobollar\obj\Debug\Uppdrag3_Lottobollar.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Skrivbord\Visual Studio\Uppdrag3_Lottobollar\Uppdrag3_Lottobollar\obj\Debug\Uppdrag3_Lottobollar.exe
+C:\Users\danie\OneDrive\Skrivbord\Visual Studio\Uppdrag3_Lottobollar\Uppdrag3_Lottobollar\obj\Debug\Uppdrag3_Lottobollar.pdb
